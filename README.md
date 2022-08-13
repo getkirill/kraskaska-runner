@@ -12,3 +12,4 @@ Options:
     --treatZeroAsError -> Zero will act like it's crashed
     --help, -h -> Usage info
 ```
+[Download latest release](https://github.com/getkirill/kraskaska-runner/releases/latest)
